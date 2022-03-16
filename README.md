@@ -1,1 +1,1 @@
-
+Hola Jesús, me da un error cuando inicio la aplicación haciendo el npm start, que es de una versión de node, lo he buscado en internet para ver como solucionarlo, pero no lo he conseguido, por el resto creo que está todo bien.
